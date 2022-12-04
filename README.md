@@ -1,4 +1,4 @@
-# gRPC App 🌌
+# gRPC App ⚡
 
 .NET Web Application using gRPC as a faster method of transfering data
 
